@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="food_delivery"
+        android:label="Diamond Eats"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="AIzaSyBqCI3hg1wXCCxI2Kvl_cZYy5MfjdjWuBg"/>
